@@ -1,5 +1,8 @@
 # Good Reads
-- [ ] [Architecture of open-source applications](https://aosabook.org/en/)
+- [ ] [500 Lines or Less](https://gist.github.com/TheKhanj/14815822356c6d77622b50e737bbccd7)
+- [ ] [The Performance of Open Source Applications](https://gist.github.com/TheKhanj/fb3eb3dc78d6aee2638eceef0067da9a)
+- [ ] [Architecture of Open Source Applications - Volume 1](https://gist.github.com/TheKhanj/012cd67169363c9c84c7a0cf24bf6df6)
+- [ ] [Architecture of Open Source Applications - Volume 2](https://gist.github.com/TheKhanj/6d3060ac3ad61d8aa78668f6cb749d98)
 
 # Todo List
 - [ ] [Nginx](https://gist.github.com/TheKhanj/b57d9695abe931406f7ed6a85546f18a)
