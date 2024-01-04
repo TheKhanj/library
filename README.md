@@ -6,6 +6,8 @@
 - [ ] [Nginx author's opinion on Apache](http://www.kegel.com/c10k.html)
 
 # Todo List
+- [ ] [Openssl](https://www.openssl.org/docs/manpages.html)
+- [ ] [Nmap](https://linux.die.net/man/1/nmap)
 - [ ] [Nginx](https://gist.github.com/TheKhanj/b57d9695abe931406f7ed6a85546f18a)
 - [ ] [Nodejs](https://gist.github.com/TheKhanj/c5236133282baabc35ff1f1b03eb14f2)
 - [ ] [Git](https://gist.github.com/TheKhanj/0020018e57b4935ec073127539977fee)
