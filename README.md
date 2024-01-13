@@ -14,11 +14,12 @@
 - [ ] [rsyslog](https://www.rsyslog.com/doc/master/index.html)
 
 # References
-- [ ] [TCP/IP RFC](https://www.rfc-editor.org/rfc/rfc1180.txt)
-> 63% inprogress
+- [x] [TCP/IP RFC](https://www.rfc-editor.org/rfc/rfc1180.txt)
 - [ ] [TCP RFC](https://www.ietf.org/rfc/rfc793.txt)
 - [ ] [UDP RFC](https://www.rfc-editor.org/rfc/rfc768.txt)
 - [ ] [QUIC RFC](https://www.rfc-editor.org/rfc/rfc9000.txt)
 - [ ] [HTTP RFC](https://datatracker.ietf.org/doc/html/rfc2616#section-13.5.1)
 - [ ] [Websocket RFC](https://www.rfc-editor.org/rfc/rfc6455.txt)
 - [ ] [HTTP2 RFC](https://www.rfc-editor.org/rfc/rfc9113.txt)
+- [ ] [Requirements for Internet Hosts](https://www.rfc-editor.org/rfc/rfc1122.txt)
+- [ ] [L2TP](https://datatracker.ietf.org/doc/html/rfc1122)
