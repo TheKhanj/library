@@ -24,3 +24,4 @@
 - [ ] [HTTP2 RFC](https://www.rfc-editor.org/rfc/rfc9113.txt)
 - [ ] [Requirements for Internet Hosts](https://www.rfc-editor.org/rfc/rfc1122.txt)
 - [ ] [L2TP](https://datatracker.ietf.org/doc/html/rfc1122)
+- [ ] [Telnet](https://www.rfc-editor.org/rfc/rfc854.txt)
